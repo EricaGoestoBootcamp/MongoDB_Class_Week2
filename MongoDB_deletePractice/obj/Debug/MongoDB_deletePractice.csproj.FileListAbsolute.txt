@@ -1,0 +1,11 @@
+c:\users\wecancodeit\documents\visual studio 2015\Projects\MongoDB_deletePractice\MongoDB_deletePractice\bin\Debug\MongoDB_deletePractice.exe.config
+c:\users\wecancodeit\documents\visual studio 2015\Projects\MongoDB_deletePractice\MongoDB_deletePractice\obj\Debug\MongoDB_deletePractice.csprojResolveAssemblyReference.cache
+c:\users\wecancodeit\documents\visual studio 2015\Projects\MongoDB_deletePractice\MongoDB_deletePractice\bin\Debug\MongoDB_deletePractice.exe
+c:\users\wecancodeit\documents\visual studio 2015\Projects\MongoDB_deletePractice\MongoDB_deletePractice\bin\Debug\MongoDB_deletePractice.pdb
+c:\users\wecancodeit\documents\visual studio 2015\Projects\MongoDB_deletePractice\MongoDB_deletePractice\bin\Debug\MongoDB.Bson.dll
+c:\users\wecancodeit\documents\visual studio 2015\Projects\MongoDB_deletePractice\MongoDB_deletePractice\bin\Debug\MongoDB.Driver.Core.dll
+c:\users\wecancodeit\documents\visual studio 2015\Projects\MongoDB_deletePractice\MongoDB_deletePractice\bin\Debug\MongoDB.Driver.dll
+c:\users\wecancodeit\documents\visual studio 2015\Projects\MongoDB_deletePractice\MongoDB_deletePractice\bin\Debug\MongoDB.Bson.xml
+c:\users\wecancodeit\documents\visual studio 2015\Projects\MongoDB_deletePractice\MongoDB_deletePractice\bin\Debug\MongoDB.Driver.xml
+c:\users\wecancodeit\documents\visual studio 2015\Projects\MongoDB_deletePractice\MongoDB_deletePractice\obj\Debug\MongoDB_deletePractice.exe
+c:\users\wecancodeit\documents\visual studio 2015\Projects\MongoDB_deletePractice\MongoDB_deletePractice\obj\Debug\MongoDB_deletePractice.pdb
